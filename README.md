@@ -1,4 +1,4 @@
 # Usage
-``` 
-from csmodules.cslog import logger 
 ```python
+from csmodules.cslog import logger 
+```
