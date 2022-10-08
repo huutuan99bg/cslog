@@ -1,3 +1,4 @@
+# Simple log formatting with colors!
 # Usage
 ```python
 from cslog import logger 
